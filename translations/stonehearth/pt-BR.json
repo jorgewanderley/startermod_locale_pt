@@ -817,9 +817,9 @@
 							"required_job_text": "Requer um Oleiro"
 						},
 						"herbalist": {
-							"display_name": "Menu de Criação (Herbalist)",
+							"display_name": "Menu de Criação (Herbalista)",
 							"description": "Faz itens de cura de ervas.",
-							"required_job_text": "Requer Um Herbalist"
+							"required_job_text": "Requer um Herbalista"
 						},
 						"engineer": {
 							"display_name": "Menu de Criação (Engenheiro)",
@@ -3063,8 +3063,8 @@
 									"dialog_title": "[name(i18n_data.boss)] "
 								},
 								"msg1": {
-									"choice_000": "Thank goodness!",
-									"choice_001": "Ogo who?",
+									"choice_000": "Obrigado Senhor!",
+									"choice_001": "Ogo por quê?",
 									"bulletin_message": {
 										"000": "Good news peons! Ogo Skullbonker, Chief-of-Chiefs-To-Be, calls us back to him. Time to go home, show him tribute! If you lucky, maybe we be back to visit... soon!"
 									},
@@ -6937,15 +6937,15 @@
 			},
 			"food_preference": {
 				"omnivore_buff": {
-					"display_name": "Omnivore",
+					"display_name": "Onivoro",
 					"description": "This pet will eat almost anything."
 				},
 				"herbivore_buff": {
-					"display_name": "Herbivore",
+					"display_name": "Herbvoro",
 					"description": "This pet will only eat plants."
 				},
 				"carnivore_buff": {
-					"display_name": "Carnivore",
+					"display_name": "Carnivoro",
 					"description": "This pet will only eat meat."
 				}
 			}
@@ -6953,16 +6953,16 @@
 		"build": {
 			"prototypes": {
 				"building": {
-					"display_name": "Building",
-					"numbered_display_name": "Building No.[str(self.stonehearth:unit_info.custom_name)]",
+					"display_name": "Construção",
+					"numbered_display_name": "Construção No.[str(self.stonehearth:unit_info.custom_name)]",
 					"description": "A building.  woot!!"
 				},
 				"column": {
-					"display_name": "Wooden Column",
+					"display_name": "Coluna de madeira",
 					"description": "Provides wall support"
 				},
 				"floor": {
-					"display_name": "Floor",
+					"display_name": "Piso",
 					"description": "Keeps feet clean"
 				},
 				"ladder": {
@@ -6970,15 +6970,15 @@
 					"description": "Usado para alcançar lugares altos"
 				},
 				"patch_wall": {
-					"display_name": "Wall",
+					"display_name": "Parede",
 					"description": "Keeps roofs up"
 				},
 				"road": {
-					"display_name": "Road",
+					"display_name": "Estrada",
 					"description": "For speedier travel"
 				},
 				"roof": {
-					"display_name": "Roof",
+					"display_name": "Telhado",
 					"description": "Keeps the rain out"
 				},
 				"scaffolding": {
@@ -6986,7 +6986,7 @@
 					"description": "Estrutura de suporte de construção"
 				},
 				"wall": {
-					"display_name": "Wall",
+					"display_name": "Parede",
 					"description": "Keeps roofs up"
 				},
 				"stairs": {
@@ -6995,7 +6995,7 @@
 				},
 				"building2": {
 					"structure": {
-						"display_name": "Structure",
+						"display_name": "Estrutura",
 						"description": "A part of a building"
 					}
 				}
