@@ -16,35 +16,35 @@
 					"northern_alliance": {
 						"display_name": "Aliança",
 						"categories": {
-							"outpost": "Explorer's Templates",
-							"settlement": "Fort Templates"
+							"outpost": "Explorador de modelos",
+							"settlement": "Modelos de Forte"
 						}
 					}
 				}
 			},
 			"building_templates": {
 				"pottery_studio": {
-					"display_name": "Pottery Studio"
+					"display_name": "Olaria"
 				},
 				"weavers_hut": {
-					"display_name": "Weaver's Hut"
+					"display_name": "Cabana do tecelão"
 				}
 			}
 		},
 		"buffs": {
 			"valor_town_bonus_strength_buff": {
-				"display_name": "Spirit of Siv",
-				"description": "Body stat increased by 2."
+				"display_name": "Espírito de Siv",
+				"description": "Corpo será aumentado em 2."
 			}
 		},
 		"gm": {
 			"campaigns": {
 				"hunting": {
-					"wild_game": "Wild game has been sighted!",
-					"hungry_caribou_raid": "A herd of caribou is headed for your farms!",
-					"hungry_deer_raid": "A parcel of deer is headed for your farms!",
-					"hungry_racoon_raid": "A gaze of raccoons is headed for your farms!",
-					"hungry_rabbit_raid": "A colony of rabbits is headed for your farms!"
+					"wild_game": "Jogo de caça iniciado!",
+					"hungry_caribou_raid": "Um rebanho de caribus está indo para suas fazendas!",
+					"hungry_deer_raid": "Alguns cervos estão indo para suas fazendas!",
+					"hungry_racoon_raid": "Alguns guaxinins estão indo para suas fazendas!",
+					"hungry_rabbit_raid": "Uma colônia de coelhos está indo para suas fazendas!"
 				},
 				"trader": {
 					"arcs": {
