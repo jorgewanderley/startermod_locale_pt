@@ -1515,11 +1515,11 @@
 					"025": "experimentando maior matemática ...",
 					"026": "proliferando flores ...",
 					"027": "escapando do realismo ...",
-					"028": "posicionando plushies ...",
+					"028": "posicionando pelúcias ...",
 					"029": "regulador de cabelo ...",
 					"030": "tosquiando ovelhas ...",
 					"031": "percolando o cérebro ...",
-					"032": "cutucando poyos ...",
+					"032": "cutucando galinhas ...",
 					"033": "pegando gotas de chuva ..."
 				},
 				"tips": {
@@ -4250,7 +4250,7 @@
 													},
 													"bulletin_title": "Erdene of the Red Kiln returns, anxious",
 													"dialog_title": "Erdene, Speaker of the Red Kiln",
-													"choice_000": "Thank you, Erdene"
+													"choice_000": "Obrigado, Erdene"
 												},
 												"intro": {
 													"bulletin_message": {
@@ -4329,7 +4329,7 @@
 													},
 													"bulletin_title": "Erdene of the Red Kiln returns, anxious",
 													"dialog_title": "Erdene, Speaker of the Red Kiln",
-													"choice_000": "Thank you, Erdene"
+													"choice_000": "Obrigado, Erdene"
 												},
 												"story4": {
 													"bulletin_message": {
@@ -4518,7 +4518,7 @@
 													},
 													"bulletin_title": "An Official-Looking Fellow Approaches!",
 													"dialog_title": "Not a Bird This Time",
-													"choice_000": "Thank you!"
+													"choice_000": "Obrigado!"
 												},
 												"glory": {
 													"bulletin_message": {
@@ -4693,7 +4693,7 @@
 													},
 													"bulletin_title": "Captain Anwyn Torresi",
 													"dialog_title": "Captain Anwyn Torresi",
-													"choice_000": "Thank you"
+													"choice_000": "Obrigado"
 												},
 												"clergy_cont": {
 													"bulletin_message": {
@@ -4701,7 +4701,7 @@
 													},
 													"bulletin_title": "Ember Minton",
 													"dialog_title": "Ember Minton",
-													"choice_000": "Thank you"
+													"choice_000": "Obrigado"
 												},
 												"military": {
 													"bulletin_message": {
@@ -4756,7 +4756,7 @@
 													},
 													"bulletin_title": "Marak Azael guffaws",
 													"dialog_title": "Marak Azael, Guildmaster",
-													"choice_000": "Thank you! Our mason is quite proud."
+													"choice_000": "Obrigado! Our mason is quite proud."
 												}
 											}
 										}
@@ -4816,7 +4816,7 @@
 													},
 													"bulletin_title": "Ember faces the shrine",
 													"dialog_title": "Ember Minton, Missionary",
-													"choice_000": "Thank you for coming"
+													"choice_000": "Obrigado for coming"
 												}
 											}
 										}
@@ -4950,9 +4950,9 @@
 									"bulletin_message": {
 										"00": "Dear [str(i18n_data.town_name)]-ites,<br><br>Word around the Capital is that your Settlement has grown since I last saw it, and that it's getting even more bustling by the day! Your Hearth must be burning brightly to attract so many new settlers.<br><br>In fact, it's also attracted the attention of a few notable individuals."
 									},
-									"bulletin_title": "A Letter",
-									"dialog_title": "A Letter",
-									"choice_000": "Notable?"
+									"bulletin_title": "Uma Carta",
+									"dialog_title": "Uma Carta",
+									"choice_000": "Notável?"
 								},
 								"msg3": {
 									"bulletin_message": {
@@ -5181,7 +5181,7 @@
 													},
 													"bulletin_title": "Sasha continues, sheepishly",
 													"dialog_title": "Sasha, Envoy of Clan Amberstone",
-													"choice_000": "Thank you, and of course!"
+													"choice_000": "Obrigado, and of course!"
 												},
 												"story2": {
 													"bulletin_message": {
@@ -5400,7 +5400,7 @@
 												"dialog_nodes": {
 													"heal": {
 														"bulletin_message": {
-															"00": "\"Thank you! I think I lost them, so we should have some time.\""
+															"00": "\"Obrigado! I think I lost them, so we should have some time.\""
 														},
 														"bulletin_title": "An Injured Rabbit",
 														"dialog_title": "An Injured Rabbit",
@@ -5408,7 +5408,7 @@
 													},
 													"fight": {
 														"bulletin_message": {
-															"00": "\"Thank you! I'll lead them here, make sure you're ready for them!\""
+															"00": "\"Obrigado! I'll lead them here, make sure you're ready for them!\""
 														},
 														"bulletin_title": "An Injured Rabbit",
 														"dialog_title": "An Injured Rabbit",
@@ -5844,7 +5844,7 @@
 															"00": "\"I leave you with a parting gift of these Stone-Cut Lanterns, may they light your path in the darker times ahead.\" <br><br>The visitor presents you with several odd, ornate stone lanterns, and then departs, disappearing into the foliage with practiced speed."
 														},
 														"bulletin_title": "New Rabbit Friend",
-														"choice_000": "Thank you!",
+														"choice_000": "Obrigado!",
 														"choice_001": "Darker times? Wait!"
 													},
 													"msg0": {
@@ -5938,10 +5938,10 @@
 												"dialog_nodes": {
 													"simple_message": {
 														"bulletin_message": {
-															"00": "\"Thank you, I'm sure the little Snake ones will find these quite satisfactory. May our friendship ever blossom!.\" He offers you glittering bags as payment.<br><br><font size=-1><i>[Rabbit reputation increased]</i></font>"
+															"00": "\"Obrigado, I'm sure the little Snake ones will find these quite satisfactory. May our friendship ever blossom!.\" He offers you glittering bags as payment.<br><br><font size=-1><i>[Rabbit reputation increased]</i></font>"
 														},
 														"bulletin_title": "Shook Down",
-														"choice_000": "Thank you!"
+														"choice_000": "Obrigado!"
 													}
 												}
 											}
@@ -5951,7 +5951,7 @@
 												"dialog_nodes": {
 													"simple_message": {
 														"bulletin_message": {
-															"00": "\"Thank you. I hope we are not injured, but fortune favors the prepared. May our friendship continue to take root!\" He hands you some glittering bags as compensation.<br><br><font size=-1><i>[Rabbit reputation increased]</i></font>"
+															"00": "\"Obrigado. I hope we are not injured, but fortune favors the prepared. May our friendship continue to take root!\" He hands you some glittering bags as compensation.<br><br><font size=-1><i>[Rabbit reputation increased]</i></font>"
 														},
 														"bulletin_title": "Shook Down",
 														"choice_000": "Best of luck"
@@ -6012,7 +6012,7 @@
 												"dialog_nodes": {
 													"simple_message": {
 														"bulletin_message": {
-															"000": "\"Wonderful! Thank you! Here, take this, as payment.\"<br><br><font size=-1><i>[Rabbit reputation increased]</i></font>"
+															"000": "\"Wonderful! Obrigado! Here, take this, as payment.\"<br><br><font size=-1><i>[Rabbit reputation increased]</i></font>"
 														},
 														"bulletin_title": "Historic Growth",
 														"dialog_title": "The Rabbit hops a little in happiness",
@@ -6047,7 +6047,7 @@
 												"dialog_nodes": {
 													"msg1": {
 														"bulletin_message": {
-															"00": "\"Thank you! My respect for you humans continues to grow. Farewell for now!\"<br><br>He wanders off, mumbling to himself, \"Mmm... I can't imagine my warren will be upset if one or two are missing from the bundle...\"<br><br><font size=-1><i>[Rabbit reputation increased]</i></font>"
+															"00": "\"Obrigado! My respect for you humans continues to grow. Farewell for now!\"<br><br>He wanders off, mumbling to himself, \"Mmm... I can't imagine my warren will be upset if one or two are missing from the bundle...\"<br><br><font size=-1><i>[Rabbit reputation increased]</i></font>"
 														},
 														"bulletin_title": "Heirbloom Donation",
 														"dialog_title": "Heirbloom Donation",
@@ -6118,7 +6118,7 @@
 												"dialog_nodes": {
 													"simple_message": {
 														"bulletin_message": {
-															"00": "\"Ahh, the full brilliance of an Amberstone is a sight to behold! Thank you for your kind service, take these in thanks.\"<br><br><font size=-1><i>[Rabbit reputation increased]</i></font>"
+															"00": "\"Ahh, the full brilliance of an Amberstone is a sight to behold! Obrigado for your kind service, take these in thanks.\"<br><br><font size=-1><i>[Rabbit reputation increased]</i></font>"
 														},
 														"bulletin_title": "Crystal Charged!",
 														"choice_000": "Safe Travels!"
@@ -6171,7 +6171,7 @@
 															"00": "\"In Rabbit culture, when a new warren is dug, it exchanges statues with its neighbors to symbolize a mutual welcoming. We know you are unaware of this, but have come to offer this for our part\"<br><br>Sasha gestures to the beautifully chiseled statue of smooth, cool stone ornamented with intricate weavings and a golden core of what must be Amberstone.<br><br>\"This partnership somewhat unprecedented, but we think that you may represent hope for us against the coming darkness.\"<br><br>\"You shall see us again soon! Oh, and feel free to keep the cricket golem, it would slow me down on the return trip. Farewell!\""
 														},
 														"bulletin_title": "A New Partnership!",
-														"choice_000": "Thank you, we are honored!",
+														"choice_000": "Obrigado, we are honored!",
 														"choice_001": "Wait! Cricket? Darkness?? Come back!"
 													},
 													"msg1": {
@@ -6308,7 +6308,7 @@
 												"dialog_nodes": {
 													"conclusion_accept": {
 														"bulletin_message": {
-															"00": "Sasha's features soften and his shoulders relax, an enormous weight clearly lifted from him. He speaks, ears folded subtly back and eyes glistening:<br><br>\"Listen, I... thank you. Thank you. I have spent so much time worrying about my people's future, and you... you are proof that we can have one. That we can have a <i>good</i> one. We are forever in your debt.\"<br><br>\"Thank you, and may your future be even brighter than ours.\""
+															"00": "Sasha's features soften and his shoulders relax, an enormous weight clearly lifted from him. He speaks, ears folded subtly back and eyes glistening:<br><br>\"Listen, I... thank you. Obrigado. I have spent so much time worrying about my people's future, and you... you are proof that we can have one. That we can have a <i>good</i> one. We are forever in your debt.\"<br><br>\"Obrigado, and may your future be even brighter than ours.\""
 														},
 														"choice_000": "We merely repaid our peoples' debt to yours.",
 														"choice_001": "We are honored to have helped.",
@@ -6818,44 +6818,44 @@
 			"deity_town_bonus": {
 				"fast_day": {
 					"fast_day_buff": {
-						"display_name": "Day of Satisfaction",
-						"description": "All citizens skip meals for the day."
+						"display_name": "Dia de satisfação",
+						"description": "Todos os cidadãos pulam as refeições do dia."
 					}
 				},
 				"health_day": {
 					"health_day_buff": {
-						"display_name": "Day of Mending",
-						"description": "All citizens regenerate health quickly."
+						"display_name": "Dia da regeneração",
+						"description": "Todos os cidadãos regeneram a saúde rapidamente."
 					},
 					"health_day_individual_buff": {
-						"display_name": "Day of Mending",
-						"description": "Health regeneration: 40 per hour."
+						"display_name": "Dia da regeneração",
+						"description": "Regeneração da saúde: 40 por hora."
 					}
 				},
 				"hero_day": {
 					"hero_day_buff": {
-						"display_name": "Day of Heroism",
-						"description": "Military units move 20% faster, have 30% stronger muscles, and are 2x as courageous."
+						"display_name": "Dia do heroísmo",
+						"description": "Unidades militares se movem 20% mais rápido, têm 30% de músculos mais fortes e são 2x mais corajosos."
 					},
 					"hero_day_individual_buff": {
-						"display_name": "Day of Heroism",
-						"description": "Speed, courage, and muscle increased."
+						"display_name": "Dia do heroísmo",
+						"description": "Velocidade, coragem e músculo aumentados."
 					}
 				},
 				"jungle_day": {
 					"jungle_day_buff": {
-						"display_name": "Day of Sprouting",
-						"description": "All plants grow 3x as fast."
+						"display_name": "Dia da germinação",
+						"description": "Todas as plantas crescem 3x mais rápido."
 					}
 				},
 				"muse_day": {
 					"muse_day_buff": {
-						"display_name": "Day of Inspiration",
-						"description": "Crafters gain +4% extra chance to create high quality items."
+						"display_name": "Dia da inspiração",
+						"description": "Construtores ganham + 4% de chance extra de criar itens de alta qualidade."
 					},
 					"muse_day_individual_buff": {
-						"display_name": "Day of Inspiration",
-						"description": "Chance to create high quality items increased."
+						"display_name": "Dia da inspiração",
+						"description": "A chance de criar itens de alta qualidade aumentou."
 					}
 				},
 				"peasant_day": {
@@ -6938,15 +6938,15 @@
 			"food_preference": {
 				"omnivore_buff": {
 					"display_name": "Onivoro",
-					"description": "This pet will eat almost anything."
+					"description": "Este animal come quase tudo."
 				},
 				"herbivore_buff": {
-					"display_name": "Herbvoro",
-					"description": "This pet will only eat plants."
+					"display_name": "Herbivoro",
+					"description": "Este animal de estimação só vai comer plantas."
 				},
 				"carnivore_buff": {
 					"display_name": "Carnivoro",
-					"description": "This pet will only eat meat."
+					"description": "Este animal de estimação só vai comer carne."
 				}
 			}
 		},
@@ -6955,15 +6955,15 @@
 				"building": {
 					"display_name": "Construção",
 					"numbered_display_name": "Construção No.[str(self.stonehearth:unit_info.custom_name)]",
-					"description": "A building.  woot!!"
+					"description": "Uma construção.  Legal!!"
 				},
 				"column": {
 					"display_name": "Coluna de madeira",
-					"description": "Provides wall support"
+					"description": "Fornece suporte de parede"
 				},
 				"floor": {
 					"display_name": "Piso",
-					"description": "Keeps feet clean"
+					"description": "Mantém os pés limpos"
 				},
 				"ladder": {
 					"display_name": "Escada",
@@ -6971,15 +6971,15 @@
 				},
 				"patch_wall": {
 					"display_name": "Parede",
-					"description": "Keeps roofs up"
+					"description": "Mantém os telhados"
 				},
 				"road": {
 					"display_name": "Estrada",
-					"description": "For speedier travel"
+					"description": "Para viagens mais rápidas"
 				},
 				"roof": {
 					"display_name": "Telhado",
-					"description": "Keeps the rain out"
+					"description": "Protegem da chuva"
 				},
 				"scaffolding": {
 					"display_name": "Andaime",
@@ -6987,7 +6987,7 @@
 				},
 				"wall": {
 					"display_name": "Parede",
-					"description": "Keeps roofs up"
+					"description": "Mantém os telhados"
 				},
 				"stairs": {
 					"display_name": "Escadas",
@@ -6996,7 +6996,7 @@
 				"building2": {
 					"structure": {
 						"display_name": "Estrutura",
-						"description": "A part of a building"
+						"description": "Uma parte da construção"
 					}
 				}
 			},
@@ -7175,7 +7175,7 @@
 				"description": "Place this item in the world."
 			},
 			"plant_crop": {
-				"plant_corn": {
+				"plant_": {
 					"display_name": "Plant Corn!",
 					"description": "Edible Gold."
 				},
